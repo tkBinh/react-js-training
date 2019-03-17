@@ -1,0 +1,22 @@
+﻿Bài 1:  - Tạo project
+	- Tạo custom Component, code và chạy
+Bài 2:	- Tìm hiểu layout Component
+	- Tạo layout căn bản
+Bài 3:	+ JSX
+	- Bỏ href tránh warning
+	- Khai báo, hiển thị biến 
+	- Khai báo đối tượng
+	- Sử dụng câu diều kiện
+	(video 5 + 6) 
+Bài 4: 	+ Props
+	- Cách sử dụng props, ý nghĩa 
+	- Truyền giá trị từ props cha vào component
+	- từ khóa children 
+	(video 7)
+Bài 5: 	+ Handling Events (Xử lý sự kiện)
+	- hàm bắt sự kiện
+	- sử dụng constructor, arrow function ... !
+	(video 8)
+Bài 6:	+ Lấy giá trị nhập vào (input, text area, form...) thông qua Refs
+	- 
+	(video 9)
