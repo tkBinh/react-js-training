@@ -20,3 +20,4 @@ Bài 5: 	+ Handling Events (Xử lý sự kiện)
 Bài 6:	+ Lấy giá trị nhập vào (input, text area, form...) thông qua Refs
 	- 
 	(video 9)
+	xxx
