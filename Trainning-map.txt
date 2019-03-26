@@ -1,22 +1,47 @@
 ﻿Bài 1:  - Tạo project
 	- Tạo custom Component, code và chạy
+
 Bài 2:	- Tìm hiểu layout Component
 	- Tạo layout căn bản
+
 Bài 3:	+ JSX
 	- Bỏ href tránh warning
 	- Khai báo, hiển thị biến 
 	- Khai báo đối tượng
 	- Sử dụng câu diều kiện
 	(video 5 + 6) 
+
 Bài 4: 	+ Props
 	- Cách sử dụng props, ý nghĩa 
 	- Truyền giá trị từ props cha vào component
 	- từ khóa children 
 	(video 7)
+
 Bài 5: 	+ Handling Events (Xử lý sự kiện)
 	- hàm bắt sự kiện
 	- sử dụng constructor, arrow function ... !
 	(video 8)
+
 Bài 6:	+ Lấy giá trị nhập vào (input, text area, form...) thông qua Refs
-	- 
+	- Khai báo ref trong JSX
+	- Lấy dữ liệu thông qua refs
 	(video 9)
+
+Bài 7: 	+ State
+	- Khai báo, sử dụng state
+	- Thay đổi trạng thái state
+	- So sánh state - props
+		+ Props: Nhận dữ liệu từ bên ngoài, truyền theo cách khai báo thuộc tính sau đó nhận vào => Không thể thay đổi giá trị
+		+ State: Dữ liệu nội bộ của riêng Component, có thể thay đổi giá trị thông qua method setState(), phạm vi: private trong Component.
+	(video 10)
+
+Bài 8:	+ TUT: Setting text color
+	- Chú ý cú pháp () => cho các function có tham số
+	- Giao tiếp giữa các Component = props
+	(Video 11, 12, 13, 14)
+
+
+Bài 10: +TUT: Project 1
+	- 
+	-
+	(Video 16,17)
